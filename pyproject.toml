@@ -1,9 +1,5 @@
 [project]
-<<<<<<< HEAD
-name = "smssuite-brandon"
-=======
 name = "smssuite"
->>>>>>> 4b51b17 (first commit)
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -14,10 +10,6 @@ dependencies = [
     "flask-login>=0.6.3",
     "flask-socketio>=5.5.1",
     "flask-sqlalchemy>=3.1.1",
-<<<<<<< HEAD
-    "git-filter-repo>=2.47.0",
-=======
->>>>>>> 4b51b17 (first commit)
     "google-api-python-client>=2.182.0",
     "google-auth-oauthlib>=1.2.2",
     "gunicorn>=23.0.0",
