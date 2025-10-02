@@ -1,1 +1,1 @@
-Front-end for Twilio-based SMS conversations
+Front-end for Twilio based SMS conversations. 
